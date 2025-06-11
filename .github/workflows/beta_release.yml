@@ -3,6 +3,7 @@ name: beta release
 on:
   push:
     branches: [ 'main' ]
+  workflow_dispatch:
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
