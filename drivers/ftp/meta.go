@@ -1,9 +1,9 @@
 package ftp
 
 import (
-	"github.com/alist-org/alist/v3/internal/driver"
-	"github.com/alist-org/alist/v3/internal/op"
 	"github.com/axgle/mahonia"
+	"github.com/friedHDD/alist/v3/internal/driver"
+	"github.com/friedHDD/alist/v3/internal/op"
 )
 
 func encode(str string, encoding string) string {

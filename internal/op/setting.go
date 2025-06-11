@@ -7,10 +7,10 @@ import (
 	"time"
 
 	"github.com/Xhofe/go-cache"
-	"github.com/alist-org/alist/v3/internal/db"
-	"github.com/alist-org/alist/v3/internal/model"
-	"github.com/alist-org/alist/v3/pkg/singleflight"
-	"github.com/alist-org/alist/v3/pkg/utils"
+	"github.com/friedHDD/alist/v3/internal/db"
+	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/friedHDD/alist/v3/pkg/singleflight"
+	"github.com/friedHDD/alist/v3/pkg/utils"
 	"github.com/pkg/errors"
 )
 

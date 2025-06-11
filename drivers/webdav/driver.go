@@ -7,11 +7,11 @@ import (
 	"path"
 	"time"
 
-	"github.com/alist-org/alist/v3/internal/driver"
-	"github.com/alist-org/alist/v3/internal/model"
-	"github.com/alist-org/alist/v3/pkg/cron"
-	"github.com/alist-org/alist/v3/pkg/gowebdav"
-	"github.com/alist-org/alist/v3/pkg/utils"
+	"github.com/friedHDD/alist/v3/internal/driver"
+	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/friedHDD/alist/v3/pkg/cron"
+	"github.com/friedHDD/alist/v3/pkg/gowebdav"
+	"github.com/friedHDD/alist/v3/pkg/utils"
 )
 
 type WebDav struct {

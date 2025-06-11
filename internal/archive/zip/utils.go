@@ -7,9 +7,9 @@ import (
 	stdpath "path"
 	"strings"
 
-	"github.com/alist-org/alist/v3/internal/archive/tool"
-	"github.com/alist-org/alist/v3/internal/errs"
-	"github.com/alist-org/alist/v3/internal/stream"
+	"github.com/friedHDD/alist/v3/internal/archive/tool"
+	"github.com/friedHDD/alist/v3/internal/errs"
+	"github.com/friedHDD/alist/v3/internal/stream"
 	"github.com/saintfish/chardet"
 	"github.com/yeka/zip"
 	"golang.org/x/text/encoding"

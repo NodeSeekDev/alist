@@ -4,8 +4,8 @@ import (
 	"time"
 
 	"github.com/Xhofe/go-cache"
-	"github.com/alist-org/alist/v3/internal/conf"
-	"github.com/alist-org/alist/v3/internal/model"
+	"github.com/friedHDD/alist/v3/internal/conf"
+	"github.com/friedHDD/alist/v3/internal/model"
 	"github.com/golang-jwt/jwt/v4"
 	"github.com/pkg/errors"
 )

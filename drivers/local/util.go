@@ -11,10 +11,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/alist-org/alist/v3/internal/conf"
-	"github.com/alist-org/alist/v3/internal/model"
-	"github.com/alist-org/alist/v3/pkg/utils"
 	"github.com/disintegration/imaging"
+	"github.com/friedHDD/alist/v3/internal/conf"
+	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/friedHDD/alist/v3/pkg/utils"
 	ffmpeg "github.com/u2takey/ffmpeg-go"
 )
 

@@ -8,7 +8,7 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/alist-org/alist/v3/internal/conf"
+	"github.com/friedHDD/alist/v3/internal/conf"
 	"github.com/spf13/cobra"
 )
 

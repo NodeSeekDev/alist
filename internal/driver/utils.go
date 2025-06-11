@@ -2,9 +2,10 @@ package driver
 
 import (
 	"context"
-	"github.com/alist-org/alist/v3/internal/model"
-	"github.com/alist-org/alist/v3/internal/stream"
 	"io"
+
+	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/friedHDD/alist/v3/internal/stream"
 )
 
 type UpdateProgress = model.UpdateProgress

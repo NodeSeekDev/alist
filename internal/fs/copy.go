@@ -3,18 +3,19 @@ package fs
 import (
 	"context"
 	"fmt"
-	"github.com/alist-org/alist/v3/internal/errs"
 	"net/http"
 	stdpath "path"
 	"time"
 
-	"github.com/alist-org/alist/v3/internal/conf"
-	"github.com/alist-org/alist/v3/internal/driver"
-	"github.com/alist-org/alist/v3/internal/model"
-	"github.com/alist-org/alist/v3/internal/op"
-	"github.com/alist-org/alist/v3/internal/stream"
-	"github.com/alist-org/alist/v3/internal/task"
-	"github.com/alist-org/alist/v3/pkg/utils"
+	"github.com/friedHDD/alist/v3/internal/errs"
+
+	"github.com/friedHDD/alist/v3/internal/conf"
+	"github.com/friedHDD/alist/v3/internal/driver"
+	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/friedHDD/alist/v3/internal/op"
+	"github.com/friedHDD/alist/v3/internal/stream"
+	"github.com/friedHDD/alist/v3/internal/task"
+	"github.com/friedHDD/alist/v3/pkg/utils"
 	"github.com/pkg/errors"
 	"github.com/xhofe/tache"
 )

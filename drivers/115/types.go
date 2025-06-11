@@ -4,8 +4,8 @@ import (
 	"time"
 
 	"github.com/SheltonZhu/115driver/pkg/driver"
-	"github.com/alist-org/alist/v3/internal/model"
-	"github.com/alist-org/alist/v3/pkg/utils"
+	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/friedHDD/alist/v3/pkg/utils"
 )
 
 var _ model.Obj = (*FileObj)(nil)

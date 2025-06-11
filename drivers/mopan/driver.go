@@ -12,14 +12,14 @@ import (
 
 	"golang.org/x/sync/semaphore"
 
-	"github.com/alist-org/alist/v3/drivers/base"
-	"github.com/alist-org/alist/v3/internal/driver"
-	"github.com/alist-org/alist/v3/internal/model"
-	"github.com/alist-org/alist/v3/internal/op"
-	"github.com/alist-org/alist/v3/pkg/errgroup"
-	"github.com/alist-org/alist/v3/pkg/utils"
 	"github.com/avast/retry-go"
 	"github.com/foxxorcat/mopan-sdk-go"
+	"github.com/friedHDD/alist/v3/drivers/base"
+	"github.com/friedHDD/alist/v3/internal/driver"
+	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/friedHDD/alist/v3/internal/op"
+	"github.com/friedHDD/alist/v3/pkg/errgroup"
+	"github.com/friedHDD/alist/v3/pkg/utils"
 	log "github.com/sirupsen/logrus"
 )
 

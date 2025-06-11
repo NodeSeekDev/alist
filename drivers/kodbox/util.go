@@ -2,10 +2,11 @@ package kodbox
 
 import (
 	"fmt"
-	"github.com/alist-org/alist/v3/drivers/base"
-	"github.com/alist-org/alist/v3/pkg/utils"
-	"github.com/go-resty/resty/v2"
 	"strings"
+
+	"github.com/friedHDD/alist/v3/drivers/base"
+	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/go-resty/resty/v2"
 )
 
 func (d *KodBox) getToken() error {

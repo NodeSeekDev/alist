@@ -3,17 +3,18 @@ package server
 import (
 	"context"
 	"crypto/subtle"
-	"github.com/alist-org/alist/v3/internal/stream"
-	"github.com/alist-org/alist/v3/server/middlewares"
 	"net/http"
 	"path"
 	"strings"
 
-	"github.com/alist-org/alist/v3/internal/conf"
-	"github.com/alist-org/alist/v3/internal/model"
-	"github.com/alist-org/alist/v3/internal/op"
-	"github.com/alist-org/alist/v3/internal/setting"
-	"github.com/alist-org/alist/v3/server/webdav"
+	"github.com/friedHDD/alist/v3/internal/stream"
+	"github.com/friedHDD/alist/v3/server/middlewares"
+
+	"github.com/friedHDD/alist/v3/internal/conf"
+	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/friedHDD/alist/v3/internal/op"
+	"github.com/friedHDD/alist/v3/internal/setting"
+	"github.com/friedHDD/alist/v3/server/webdav"
 	"github.com/gin-gonic/gin"
 	log "github.com/sirupsen/logrus"
 )

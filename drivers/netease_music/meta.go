@@ -3,8 +3,8 @@ package netease_music
 import (
 	"regexp"
 
-	"github.com/alist-org/alist/v3/internal/driver"
-	"github.com/alist-org/alist/v3/internal/op"
+	"github.com/friedHDD/alist/v3/internal/driver"
+	"github.com/friedHDD/alist/v3/internal/op"
 )
 
 type Addition struct {

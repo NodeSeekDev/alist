@@ -5,9 +5,9 @@ import (
 	"path"
 	"strings"
 
-	"github.com/alist-org/alist/v3/internal/conf"
-	"github.com/alist-org/alist/v3/server/common"
-	"github.com/alist-org/alist/v3/server/s3"
+	"github.com/friedHDD/alist/v3/internal/conf"
+	"github.com/friedHDD/alist/v3/server/common"
+	"github.com/friedHDD/alist/v3/server/s3"
 	"github.com/gin-gonic/gin"
 )
 

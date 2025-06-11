@@ -3,11 +3,11 @@ package data
 import (
 	"context"
 
-	"github.com/alist-org/alist/v3/cmd/flags"
-	"github.com/alist-org/alist/v3/internal/db"
-	"github.com/alist-org/alist/v3/internal/message"
-	"github.com/alist-org/alist/v3/internal/model"
-	"github.com/alist-org/alist/v3/internal/op"
+	"github.com/friedHDD/alist/v3/cmd/flags"
+	"github.com/friedHDD/alist/v3/internal/db"
+	"github.com/friedHDD/alist/v3/internal/message"
+	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/friedHDD/alist/v3/internal/op"
 	log "github.com/sirupsen/logrus"
 )
 

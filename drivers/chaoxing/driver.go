@@ -13,12 +13,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/alist-org/alist/v3/internal/driver"
-	"github.com/alist-org/alist/v3/internal/errs"
-	"github.com/alist-org/alist/v3/internal/model"
-	"github.com/alist-org/alist/v3/internal/op"
-	"github.com/alist-org/alist/v3/pkg/cron"
-	"github.com/alist-org/alist/v3/pkg/utils"
+	"github.com/friedHDD/alist/v3/internal/driver"
+	"github.com/friedHDD/alist/v3/internal/errs"
+	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/friedHDD/alist/v3/internal/op"
+	"github.com/friedHDD/alist/v3/pkg/cron"
+	"github.com/friedHDD/alist/v3/pkg/utils"
 	"github.com/go-resty/resty/v2"
 	"google.golang.org/appengine/log"
 )

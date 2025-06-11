@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/alist-org/alist/v3/drivers/base"
-	"github.com/alist-org/alist/v3/internal/op"
+	"github.com/friedHDD/alist/v3/drivers/base"
+	"github.com/friedHDD/alist/v3/internal/op"
 	log "github.com/sirupsen/logrus"
 )
 

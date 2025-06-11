@@ -3,9 +3,9 @@ package db_non_full_text
 import (
 	"context"
 
-	"github.com/alist-org/alist/v3/internal/db"
-	"github.com/alist-org/alist/v3/internal/model"
-	"github.com/alist-org/alist/v3/internal/search/searcher"
+	"github.com/friedHDD/alist/v3/internal/db"
+	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/friedHDD/alist/v3/internal/search/searcher"
 )
 
 type DB struct{}

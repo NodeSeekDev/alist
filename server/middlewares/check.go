@@ -3,9 +3,9 @@ package middlewares
 import (
 	"strings"
 
-	"github.com/alist-org/alist/v3/internal/conf"
-	"github.com/alist-org/alist/v3/pkg/utils"
-	"github.com/alist-org/alist/v3/server/common"
+	"github.com/friedHDD/alist/v3/internal/conf"
+	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/friedHDD/alist/v3/server/common"
 	"github.com/gin-gonic/gin"
 )
 

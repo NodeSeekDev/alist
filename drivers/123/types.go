@@ -1,14 +1,15 @@
 package _123
 
 import (
-	"github.com/alist-org/alist/v3/pkg/utils"
 	"net/url"
 	"path"
 	"strconv"
 	"strings"
 	"time"
 
-	"github.com/alist-org/alist/v3/internal/model"
+	"github.com/friedHDD/alist/v3/pkg/utils"
+
+	"github.com/friedHDD/alist/v3/internal/model"
 )
 
 type File struct {

@@ -16,14 +16,14 @@ import (
 	"strings"
 	"time"
 
-	"github.com/alist-org/alist/v3/internal/stream"
+	"github.com/friedHDD/alist/v3/internal/stream"
 
-	"github.com/alist-org/alist/v3/internal/errs"
-	"github.com/alist-org/alist/v3/internal/fs"
-	"github.com/alist-org/alist/v3/internal/model"
-	"github.com/alist-org/alist/v3/internal/sign"
-	"github.com/alist-org/alist/v3/pkg/utils"
-	"github.com/alist-org/alist/v3/server/common"
+	"github.com/friedHDD/alist/v3/internal/errs"
+	"github.com/friedHDD/alist/v3/internal/fs"
+	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/friedHDD/alist/v3/internal/sign"
+	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/friedHDD/alist/v3/server/common"
 )
 
 type Handler struct {

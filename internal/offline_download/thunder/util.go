@@ -5,9 +5,9 @@ import (
 	"time"
 
 	"github.com/Xhofe/go-cache"
-	"github.com/alist-org/alist/v3/drivers/thunder"
-	"github.com/alist-org/alist/v3/internal/op"
-	"github.com/alist-org/alist/v3/pkg/singleflight"
+	"github.com/friedHDD/alist/v3/drivers/thunder"
+	"github.com/friedHDD/alist/v3/internal/op"
+	"github.com/friedHDD/alist/v3/pkg/singleflight"
 )
 
 var taskCache = cache.NewMemCache(cache.WithShards[[]thunder.OfflineTask](16))

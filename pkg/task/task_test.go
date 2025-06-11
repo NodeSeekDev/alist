@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/alist-org/alist/v3/pkg/utils"
+	"github.com/friedHDD/alist/v3/pkg/utils"
 	"github.com/pkg/errors"
 )
 

@@ -1,9 +1,10 @@
 package quark_uc_tv
 
 import (
-	"github.com/alist-org/alist/v3/internal/model"
-	"github.com/alist-org/alist/v3/pkg/utils"
 	"time"
+
+	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/friedHDD/alist/v3/pkg/utils"
 )
 
 type Resp struct {

@@ -4,15 +4,16 @@ import (
 	"context"
 	"crypto/md5"
 	"encoding/hex"
-	"github.com/alist-org/alist/v3/internal/driver"
 	"io"
 	"net/http"
 	"strconv"
 	"strings"
 
-	"github.com/alist-org/alist/v3/internal/model"
-	"github.com/alist-org/alist/v3/pkg/utils"
+	"github.com/friedHDD/alist/v3/internal/driver"
+
 	"github.com/dhowden/tag"
+	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/friedHDD/alist/v3/pkg/utils"
 )
 
 type token struct {

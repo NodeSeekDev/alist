@@ -11,12 +11,12 @@ import (
 	"reflect"
 	"strings"
 
-	_ "github.com/alist-org/alist/v3/drivers"
-	"github.com/alist-org/alist/v3/internal/bootstrap"
-	"github.com/alist-org/alist/v3/internal/bootstrap/data"
-	"github.com/alist-org/alist/v3/internal/conf"
-	"github.com/alist-org/alist/v3/internal/op"
-	"github.com/alist-org/alist/v3/pkg/utils"
+	_ "github.com/friedHDD/alist/v3/drivers"
+	"github.com/friedHDD/alist/v3/internal/bootstrap"
+	"github.com/friedHDD/alist/v3/internal/bootstrap/data"
+	"github.com/friedHDD/alist/v3/internal/conf"
+	"github.com/friedHDD/alist/v3/internal/op"
+	"github.com/friedHDD/alist/v3/pkg/utils"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )

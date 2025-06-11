@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/alist-org/alist/v3/pkg/utils"
+	"github.com/friedHDD/alist/v3/pkg/utils"
 )
 
 // Tid生成

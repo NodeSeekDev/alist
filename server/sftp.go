@@ -2,18 +2,19 @@ package server
 
 import (
 	"context"
-	"github.com/KirCute/sftpd-alist"
-	"github.com/alist-org/alist/v3/internal/conf"
-	"github.com/alist-org/alist/v3/internal/model"
-	"github.com/alist-org/alist/v3/internal/op"
-	"github.com/alist-org/alist/v3/internal/setting"
-	"github.com/alist-org/alist/v3/pkg/utils"
-	"github.com/alist-org/alist/v3/server/ftp"
-	"github.com/alist-org/alist/v3/server/sftp"
-	"github.com/pkg/errors"
-	"golang.org/x/crypto/ssh"
 	"net/http"
 	"time"
+
+	"github.com/KirCute/sftpd-alist"
+	"github.com/friedHDD/alist/v3/internal/conf"
+	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/friedHDD/alist/v3/internal/op"
+	"github.com/friedHDD/alist/v3/internal/setting"
+	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/friedHDD/alist/v3/server/ftp"
+	"github.com/friedHDD/alist/v3/server/sftp"
+	"github.com/pkg/errors"
+	"golang.org/x/crypto/ssh"
 )
 
 type SftpDriver struct {

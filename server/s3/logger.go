@@ -5,8 +5,8 @@ package s3
 import (
 	"fmt"
 
-	"github.com/alist-org/alist/v3/pkg/utils"
 	"github.com/alist-org/gofakes3"
+	"github.com/friedHDD/alist/v3/pkg/utils"
 )
 
 // logger output formatted message

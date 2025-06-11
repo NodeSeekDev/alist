@@ -5,13 +5,6 @@ import (
 	"crypto/tls"
 	"errors"
 	"fmt"
-	ftpserver "github.com/KirCute/ftpserverlib-pasvportmap"
-	"github.com/alist-org/alist/v3/internal/conf"
-	"github.com/alist-org/alist/v3/internal/model"
-	"github.com/alist-org/alist/v3/internal/op"
-	"github.com/alist-org/alist/v3/internal/setting"
-	"github.com/alist-org/alist/v3/pkg/utils"
-	"github.com/alist-org/alist/v3/server/ftp"
 	"math/rand"
 	"net"
 	"net/http"
@@ -19,6 +12,14 @@ import (
 	"strconv"
 	"strings"
 	"sync"
+
+	ftpserver "github.com/KirCute/ftpserverlib-pasvportmap"
+	"github.com/friedHDD/alist/v3/internal/conf"
+	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/friedHDD/alist/v3/internal/op"
+	"github.com/friedHDD/alist/v3/internal/setting"
+	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/friedHDD/alist/v3/server/ftp"
 )
 
 type FtpMainDriver struct {

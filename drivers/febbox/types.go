@@ -2,11 +2,12 @@ package febbox
 
 import (
 	"fmt"
-	"github.com/alist-org/alist/v3/internal/model"
-	"github.com/alist-org/alist/v3/pkg/utils"
-	hash_extend "github.com/alist-org/alist/v3/pkg/utils/hash"
 	"strconv"
 	"time"
+
+	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/friedHDD/alist/v3/pkg/utils"
+	hash_extend "github.com/friedHDD/alist/v3/pkg/utils/hash"
 )
 
 type ErrResp struct {

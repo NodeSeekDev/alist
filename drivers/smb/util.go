@@ -1,13 +1,14 @@
 package smb
 
 import (
-	"github.com/alist-org/alist/v3/pkg/utils"
 	"io/fs"
 	"net"
 	"os"
 	"path/filepath"
 	"sync/atomic"
 	"time"
+
+	"github.com/friedHDD/alist/v3/pkg/utils"
 
 	"github.com/hirochachacha/go-smb2"
 )

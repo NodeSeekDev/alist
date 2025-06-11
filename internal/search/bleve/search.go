@@ -6,13 +6,13 @@ import (
 
 	query2 "github.com/blevesearch/bleve/v2/search/query"
 
-	"github.com/alist-org/alist/v3/internal/conf"
-	"github.com/alist-org/alist/v3/internal/errs"
-	"github.com/alist-org/alist/v3/internal/model"
-	"github.com/alist-org/alist/v3/internal/search/searcher"
-	"github.com/alist-org/alist/v3/pkg/utils"
 	"github.com/blevesearch/bleve/v2"
 	search2 "github.com/blevesearch/bleve/v2/search"
+	"github.com/friedHDD/alist/v3/internal/conf"
+	"github.com/friedHDD/alist/v3/internal/errs"
+	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/friedHDD/alist/v3/internal/search/searcher"
+	"github.com/friedHDD/alist/v3/pkg/utils"
 	"github.com/google/uuid"
 	log "github.com/sirupsen/logrus"
 )

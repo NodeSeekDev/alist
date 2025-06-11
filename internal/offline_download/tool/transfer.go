@@ -3,20 +3,21 @@ package tool
 import (
 	"context"
 	"fmt"
-	"github.com/alist-org/alist/v3/internal/driver"
-	"github.com/alist-org/alist/v3/internal/model"
-	"github.com/alist-org/alist/v3/internal/op"
-	"github.com/alist-org/alist/v3/internal/stream"
-	"github.com/alist-org/alist/v3/internal/task"
-	"github.com/alist-org/alist/v3/pkg/utils"
-	"github.com/pkg/errors"
-	log "github.com/sirupsen/logrus"
-	"github.com/xhofe/tache"
 	"net/http"
 	"os"
 	stdpath "path"
 	"path/filepath"
 	"time"
+
+	"github.com/friedHDD/alist/v3/internal/driver"
+	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/friedHDD/alist/v3/internal/op"
+	"github.com/friedHDD/alist/v3/internal/stream"
+	"github.com/friedHDD/alist/v3/internal/task"
+	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/pkg/errors"
+	log "github.com/sirupsen/logrus"
+	"github.com/xhofe/tache"
 )
 
 type TransferTask struct {
