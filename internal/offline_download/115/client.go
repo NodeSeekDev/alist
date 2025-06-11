@@ -7,6 +7,7 @@ import (
 	"github.com/friedHDD/alist/v3/internal/conf"
 	"github.com/friedHDD/alist/v3/internal/setting"
 
+	_115 "github.com/friedHDD/alist/v3/drivers/115"
 	"github.com/friedHDD/alist/v3/internal/errs"
 	"github.com/friedHDD/alist/v3/internal/model"
 	"github.com/friedHDD/alist/v3/internal/offline_download/tool"
