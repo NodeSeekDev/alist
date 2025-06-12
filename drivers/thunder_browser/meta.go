@@ -4,9 +4,9 @@ import (
 	"crypto/md5"
 	"encoding/hex"
 
-	"github.com/friedHDD/alist/v3/internal/driver"
-	"github.com/friedHDD/alist/v3/internal/op"
-	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/internal/driver"
+	"github.com/NodeSeekDev/alist/v3/internal/op"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 )
 
 // ExpertAddition 高级设置

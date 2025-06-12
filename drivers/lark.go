@@ -5,5 +5,5 @@
 package drivers
 
 import (
-	_ "github.com/friedHDD/alist/v3/drivers/lark"
+	_ "github.com/NodeSeekDev/alist/v3/drivers/lark"
 )

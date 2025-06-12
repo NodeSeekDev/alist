@@ -4,11 +4,11 @@ Copyright © 2022 NAME HERE <EMAIL ADDRESS>
 package cmd
 
 import (
-	"github.com/friedHDD/alist/v3/internal/conf"
-	"github.com/friedHDD/alist/v3/internal/op"
-	"github.com/friedHDD/alist/v3/internal/setting"
-	"github.com/friedHDD/alist/v3/pkg/utils"
-	"github.com/friedHDD/alist/v3/pkg/utils/random"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/op"
+	"github.com/NodeSeekDev/alist/v3/internal/setting"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils/random"
 	"github.com/spf13/cobra"
 )
 

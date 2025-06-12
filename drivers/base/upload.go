@@ -5,8 +5,8 @@ import (
 	"strings"
 	"time"
 
+	"github.com/NodeSeekDev/alist/v3/internal/driver"
 	"github.com/Xhofe/go-cache"
-	"github.com/friedHDD/alist/v3/internal/driver"
 )
 
 // storage upload progress, for upload recovery

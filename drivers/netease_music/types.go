@@ -8,13 +8,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/friedHDD/alist/v3/internal/driver"
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/internal/sign"
-	"github.com/friedHDD/alist/v3/pkg/http_range"
-	"github.com/friedHDD/alist/v3/pkg/utils"
-	"github.com/friedHDD/alist/v3/pkg/utils/random"
-	"github.com/friedHDD/alist/v3/server/common"
+	"github.com/NodeSeekDev/alist/v3/internal/driver"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/internal/sign"
+	"github.com/NodeSeekDev/alist/v3/pkg/http_range"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils/random"
+	"github.com/NodeSeekDev/alist/v3/server/common"
 )
 
 type HostsResp struct {

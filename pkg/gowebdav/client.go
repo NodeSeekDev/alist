@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 )
 
 // Client defines our structure

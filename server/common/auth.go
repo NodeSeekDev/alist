@@ -3,9 +3,9 @@ package common
 import (
 	"time"
 
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
 	"github.com/Xhofe/go-cache"
-	"github.com/friedHDD/alist/v3/internal/conf"
-	"github.com/friedHDD/alist/v3/internal/model"
 	"github.com/golang-jwt/jwt/v4"
 	"github.com/pkg/errors"
 )

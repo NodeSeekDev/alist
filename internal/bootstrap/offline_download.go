@@ -1,8 +1,8 @@
 package bootstrap
 
 import (
-	"github.com/friedHDD/alist/v3/internal/offline_download/tool"
-	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/internal/offline_download/tool"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 )
 
 func InitOfflineDownloadTools() {

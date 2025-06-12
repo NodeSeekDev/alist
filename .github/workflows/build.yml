@@ -49,11 +49,11 @@ jobs:
           musl-target-format: $os-$musl-$arch
           out-dir: build
           x-flags: |
-            github.com/friedHDD/alist/v3/internal/conf.BuiltAt=$built_at
-            github.com/friedHDD/alist/v3/internal/conf.GitAuthor=Xhofe
-            github.com/friedHDD/alist/v3/internal/conf.GitCommit=$git_commit
-            github.com/friedHDD/alist/v3/internal/conf.Version=$tag
-            github.com/friedHDD/alist/v3/internal/conf.WebVersion=dev
+            github.com/NodeSeekDev/alist/v3/internal/conf.BuiltAt=$built_at
+            github.com/NodeSeekDev/alist/v3/internal/conf.GitAuthor=Xhofe
+            github.com/NodeSeekDev/alist/v3/internal/conf.GitCommit=$git_commit
+            github.com/NodeSeekDev/alist/v3/internal/conf.Version=$tag
+            github.com/NodeSeekDev/alist/v3/internal/conf.WebVersion=dev
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4

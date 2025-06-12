@@ -1,12 +1,12 @@
 package bootstrap
 
 import (
-	"github.com/friedHDD/alist/v3/internal/conf"
-	"github.com/friedHDD/alist/v3/internal/db"
-	"github.com/friedHDD/alist/v3/internal/fs"
-	"github.com/friedHDD/alist/v3/internal/offline_download/tool"
-	"github.com/friedHDD/alist/v3/internal/op"
-	"github.com/friedHDD/alist/v3/internal/setting"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/db"
+	"github.com/NodeSeekDev/alist/v3/internal/fs"
+	"github.com/NodeSeekDev/alist/v3/internal/offline_download/tool"
+	"github.com/NodeSeekDev/alist/v3/internal/op"
+	"github.com/NodeSeekDev/alist/v3/internal/setting"
 	"github.com/xhofe/tache"
 )
 

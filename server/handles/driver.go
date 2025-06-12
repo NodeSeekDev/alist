@@ -3,8 +3,8 @@ package handles
 import (
 	"fmt"
 
-	"github.com/friedHDD/alist/v3/internal/op"
-	"github.com/friedHDD/alist/v3/server/common"
+	"github.com/NodeSeekDev/alist/v3/internal/op"
+	"github.com/NodeSeekDev/alist/v3/server/common"
 	"github.com/gin-gonic/gin"
 )
 

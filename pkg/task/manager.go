@@ -1,8 +1,8 @@
 package task
 
 import (
-	"github.com/friedHDD/alist/v3/pkg/generic_sync"
-	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/pkg/generic_sync"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
 )

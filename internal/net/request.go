@@ -11,10 +11,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 
+	"github.com/NodeSeekDev/alist/v3/pkg/http_range"
 	"github.com/aws/aws-sdk-go/aws/awsutil"
-	"github.com/friedHDD/alist/v3/pkg/http_range"
 	log "github.com/sirupsen/logrus"
 )
 

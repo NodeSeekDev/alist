@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/friedHDD/alist/v3/drivers/base"
+	"github.com/NodeSeekDev/alist/v3/drivers/base"
 	"github.com/go-resty/resty/v2"
 )
 

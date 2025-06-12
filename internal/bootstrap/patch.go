@@ -5,9 +5,9 @@ import (
 
 	"strings"
 
-	"github.com/friedHDD/alist/v3/internal/bootstrap/patch"
-	"github.com/friedHDD/alist/v3/internal/conf"
-	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/internal/bootstrap/patch"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 )
 
 var LastLaunchedVersion = ""

@@ -11,12 +11,12 @@ import (
 	"reflect"
 	"strings"
 
-	_ "github.com/friedHDD/alist/v3/drivers"
-	"github.com/friedHDD/alist/v3/internal/bootstrap"
-	"github.com/friedHDD/alist/v3/internal/bootstrap/data"
-	"github.com/friedHDD/alist/v3/internal/conf"
-	"github.com/friedHDD/alist/v3/internal/op"
-	"github.com/friedHDD/alist/v3/pkg/utils"
+	_ "github.com/NodeSeekDev/alist/v3/drivers"
+	"github.com/NodeSeekDev/alist/v3/internal/bootstrap"
+	"github.com/NodeSeekDev/alist/v3/internal/bootstrap/data"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/op"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )

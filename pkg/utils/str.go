@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"strings"
 
-	"github.com/friedHDD/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
 )
 
 func MappingName(name string) string {

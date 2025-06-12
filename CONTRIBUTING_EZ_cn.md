@@ -3,7 +3,7 @@
 首先，克隆repo
 
 ```shell
-git clone https://github.com/friedHDD/alist.git
+git clone https://github.com/NodeSeekDev/alist.git
 git clone --recurse-submodules https://github.com/alist-org/alist-web.git
 ```
 安装依赖并且初次编译前端部分

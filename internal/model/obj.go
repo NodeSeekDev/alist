@@ -7,9 +7,9 @@ import (
 	"strings"
 	"time"
 
+	"github.com/NodeSeekDev/alist/v3/pkg/http_range"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 	"github.com/dlclark/regexp2"
-	"github.com/friedHDD/alist/v3/pkg/http_range"
-	"github.com/friedHDD/alist/v3/pkg/utils"
 
 	mapset "github.com/deckarep/golang-set/v2"
 

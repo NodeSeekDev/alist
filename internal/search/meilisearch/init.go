@@ -4,10 +4,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/friedHDD/alist/v3/internal/conf"
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/internal/search/searcher"
-	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/internal/search/searcher"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 	"github.com/meilisearch/meilisearch-go"
 )
 

@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
 )
 
 // FolderResp represents the structure of the folder response from the OneDrive API.

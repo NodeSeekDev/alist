@@ -3,7 +3,7 @@ package setting
 import (
 	"strconv"
 
-	"github.com/friedHDD/alist/v3/internal/op"
+	"github.com/NodeSeekDev/alist/v3/internal/op"
 )
 
 func GetStr(key string, defaultValue ...string) string {

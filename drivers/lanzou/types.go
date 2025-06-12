@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 )
 
 var ErrFileShareCancel = errors.New("file sharing cancellation")

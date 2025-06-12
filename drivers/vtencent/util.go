@@ -10,15 +10,15 @@ import (
 	"net/http"
 	"strconv"
 
+	"github.com/NodeSeekDev/alist/v3/drivers/base"
+	"github.com/NodeSeekDev/alist/v3/internal/driver"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/pkg/http_range"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/credentials"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/s3/s3manager"
-	"github.com/friedHDD/alist/v3/drivers/base"
-	"github.com/friedHDD/alist/v3/internal/driver"
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/pkg/http_range"
-	"github.com/friedHDD/alist/v3/pkg/utils"
 	"github.com/go-resty/resty/v2"
 )
 

@@ -1,8 +1,8 @@
 package aria2
 
 import (
-	"github.com/friedHDD/alist/v3/pkg/aria2/rpc"
-	"github.com/friedHDD/alist/v3/pkg/generic_sync"
+	"github.com/NodeSeekDev/alist/v3/pkg/aria2/rpc"
+	"github.com/NodeSeekDev/alist/v3/pkg/generic_sync"
 )
 
 const (

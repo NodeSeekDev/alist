@@ -6,9 +6,9 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/friedHDD/alist/v3/internal/conf"
-	"github.com/friedHDD/alist/v3/internal/db"
-	"github.com/friedHDD/alist/v3/internal/search/searcher"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/db"
+	"github.com/NodeSeekDev/alist/v3/internal/search/searcher"
 )
 
 var config = searcher.Config{

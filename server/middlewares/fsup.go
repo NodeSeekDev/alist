@@ -4,10 +4,10 @@ import (
 	"net/url"
 	stdpath "path"
 
-	"github.com/friedHDD/alist/v3/internal/errs"
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/internal/op"
-	"github.com/friedHDD/alist/v3/server/common"
+	"github.com/NodeSeekDev/alist/v3/internal/errs"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/internal/op"
+	"github.com/NodeSeekDev/alist/v3/server/common"
 	"github.com/gin-gonic/gin"
 	"github.com/pkg/errors"
 )

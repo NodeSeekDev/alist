@@ -11,12 +11,12 @@ import (
 
 	"golang.org/x/time/rate"
 
-	_123 "github.com/friedHDD/alist/v3/drivers/123"
-	"github.com/friedHDD/alist/v3/drivers/base"
-	"github.com/friedHDD/alist/v3/internal/driver"
-	"github.com/friedHDD/alist/v3/internal/errs"
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/pkg/utils"
+	_123 "github.com/NodeSeekDev/alist/v3/drivers/123"
+	"github.com/NodeSeekDev/alist/v3/drivers/base"
+	"github.com/NodeSeekDev/alist/v3/internal/driver"
+	"github.com/NodeSeekDev/alist/v3/internal/errs"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 	"github.com/go-resty/resty/v2"
 	log "github.com/sirupsen/logrus"
 )

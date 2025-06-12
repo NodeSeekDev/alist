@@ -78,13 +78,13 @@ N/A
 
 ## 讨论
 
-一般问题请到[讨论论坛](https://github.com/friedHDD/alist/discussions) ，**issue仅针对错误报告和功能请求。**
+一般问题请到[讨论论坛](https://github.com/NodeSeekDev/alist/discussions) ，**issue仅针对错误报告和功能请求。**
 
 ## 贡献者
 
 感谢这些开源作者们：
 
-[![Contributors](https://contrib.rocks/image?repo=friedHDD/alist)](https://github.com/friedHDD/alist/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=friedHDD/alist)](https://github.com/NodeSeekDev/alist/graphs/contributors)
 
 ## 许可
 

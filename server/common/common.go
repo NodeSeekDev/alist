@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/friedHDD/alist/v3/cmd/flags"
-	"github.com/friedHDD/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/cmd/flags"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
 	"github.com/gin-gonic/gin"
 	log "github.com/sirupsen/logrus"
 )

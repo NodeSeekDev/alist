@@ -3,9 +3,9 @@ package template
 import (
 	"context"
 
-	"github.com/friedHDD/alist/v3/internal/driver"
-	"github.com/friedHDD/alist/v3/internal/errs"
-	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/internal/driver"
+	"github.com/NodeSeekDev/alist/v3/internal/errs"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
 )
 
 type Template struct {

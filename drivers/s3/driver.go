@@ -10,14 +10,14 @@ import (
 	"strings"
 	"time"
 
+	"github.com/NodeSeekDev/alist/v3/internal/driver"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/internal/stream"
+	"github.com/NodeSeekDev/alist/v3/pkg/cron"
+	"github.com/NodeSeekDev/alist/v3/server/common"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/s3"
 	"github.com/aws/aws-sdk-go/service/s3/s3manager"
-	"github.com/friedHDD/alist/v3/internal/driver"
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/internal/stream"
-	"github.com/friedHDD/alist/v3/pkg/cron"
-	"github.com/friedHDD/alist/v3/server/common"
 	log "github.com/sirupsen/logrus"
 )
 

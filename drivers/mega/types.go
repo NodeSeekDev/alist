@@ -3,9 +3,9 @@ package mega
 import (
 	"time"
 
-	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 
-	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
 	"github.com/t3rm1n4l/go-mega"
 )
 

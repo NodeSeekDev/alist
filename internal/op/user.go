@@ -3,12 +3,12 @@ package op
 import (
 	"time"
 
+	"github.com/NodeSeekDev/alist/v3/internal/db"
+	"github.com/NodeSeekDev/alist/v3/internal/errs"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/pkg/singleflight"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 	"github.com/Xhofe/go-cache"
-	"github.com/friedHDD/alist/v3/internal/db"
-	"github.com/friedHDD/alist/v3/internal/errs"
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/pkg/singleflight"
-	"github.com/friedHDD/alist/v3/pkg/utils"
 )
 
 var userCache = cache.NewMemCache(cache.WithShards[*model.User](2))

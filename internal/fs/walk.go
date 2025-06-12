@@ -5,8 +5,8 @@ import (
 	"path"
 	"path/filepath"
 
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/internal/op"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/internal/op"
 )
 
 // WalkFS traverses filesystem fs starting at name up to depth levels.

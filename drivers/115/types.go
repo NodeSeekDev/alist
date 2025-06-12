@@ -3,9 +3,9 @@ package _115
 import (
 	"time"
 
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 	"github.com/SheltonZhu/115driver/pkg/driver"
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/pkg/utils"
 )
 
 var _ model.Obj = (*FileObj)(nil)

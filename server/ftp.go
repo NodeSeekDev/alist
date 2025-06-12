@@ -14,12 +14,12 @@ import (
 	"sync"
 
 	ftpserver "github.com/KirCute/ftpserverlib-pasvportmap"
-	"github.com/friedHDD/alist/v3/internal/conf"
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/internal/op"
-	"github.com/friedHDD/alist/v3/internal/setting"
-	"github.com/friedHDD/alist/v3/pkg/utils"
-	"github.com/friedHDD/alist/v3/server/ftp"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/internal/op"
+	"github.com/NodeSeekDev/alist/v3/internal/setting"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/server/ftp"
 )
 
 type FtpMainDriver struct {

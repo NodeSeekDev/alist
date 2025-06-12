@@ -3,8 +3,8 @@ package conf
 import (
 	"path/filepath"
 
-	"github.com/friedHDD/alist/v3/cmd/flags"
-	"github.com/friedHDD/alist/v3/pkg/utils/random"
+	"github.com/NodeSeekDev/alist/v3/cmd/flags"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils/random"
 )
 
 type Database struct {

@@ -16,7 +16,7 @@ import (
 	"strings"
 	"testing"
 
-	ixml "github.com/friedHDD/alist/v3/server/webdav/internal/xml"
+	ixml "github.com/NodeSeekDev/alist/v3/server/webdav/internal/xml"
 )
 
 func TestReadLockInfo(t *testing.T) {

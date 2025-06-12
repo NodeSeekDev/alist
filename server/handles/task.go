@@ -4,13 +4,13 @@ import (
 	"math"
 	"time"
 
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/internal/task"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/internal/task"
 
-	"github.com/friedHDD/alist/v3/internal/fs"
-	"github.com/friedHDD/alist/v3/internal/offline_download/tool"
-	"github.com/friedHDD/alist/v3/pkg/utils"
-	"github.com/friedHDD/alist/v3/server/common"
+	"github.com/NodeSeekDev/alist/v3/internal/fs"
+	"github.com/NodeSeekDev/alist/v3/internal/offline_download/tool"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/server/common"
 	"github.com/gin-gonic/gin"
 	"github.com/xhofe/tache"
 )

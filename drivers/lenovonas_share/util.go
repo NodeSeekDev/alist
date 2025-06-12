@@ -3,8 +3,8 @@ package LenovoNasShare
 import (
 	"errors"
 
-	"github.com/friedHDD/alist/v3/drivers/base"
-	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/drivers/base"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 	jsoniter "github.com/json-iterator/go"
 )
 

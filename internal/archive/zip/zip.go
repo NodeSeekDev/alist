@@ -5,10 +5,10 @@ import (
 	stdpath "path"
 	"strings"
 
-	"github.com/friedHDD/alist/v3/internal/archive/tool"
-	"github.com/friedHDD/alist/v3/internal/errs"
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/internal/stream"
+	"github.com/NodeSeekDev/alist/v3/internal/archive/tool"
+	"github.com/NodeSeekDev/alist/v3/internal/errs"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/internal/stream"
 )
 
 type Zip struct {

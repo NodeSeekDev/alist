@@ -5,10 +5,10 @@ import (
 	"io"
 	"io/fs"
 
+	"github.com/NodeSeekDev/alist/v3/internal/archive/tool"
+	"github.com/NodeSeekDev/alist/v3/internal/errs"
+	"github.com/NodeSeekDev/alist/v3/internal/stream"
 	"github.com/bodgit/sevenzip"
-	"github.com/friedHDD/alist/v3/internal/archive/tool"
-	"github.com/friedHDD/alist/v3/internal/errs"
-	"github.com/friedHDD/alist/v3/internal/stream"
 )
 
 type WrapReader struct {

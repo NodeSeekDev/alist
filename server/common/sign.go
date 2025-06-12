@@ -3,10 +3,10 @@ package common
 import (
 	stdpath "path"
 
-	"github.com/friedHDD/alist/v3/internal/conf"
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/internal/setting"
-	"github.com/friedHDD/alist/v3/internal/sign"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/internal/setting"
+	"github.com/NodeSeekDev/alist/v3/internal/sign"
 )
 
 func Sign(obj model.Obj, parent string, encrypt bool) string {

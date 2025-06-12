@@ -5,9 +5,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/friedHDD/alist/v3/cmd/flags"
-	"github.com/friedHDD/alist/v3/internal/conf"
-	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/cmd/flags"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 	"github.com/natefinch/lumberjack"
 	"github.com/sirupsen/logrus"
 )

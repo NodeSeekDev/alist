@@ -10,16 +10,16 @@ import (
 	"sync/atomic"
 	"time"
 
+	"github.com/NodeSeekDev/alist/v3/drivers/base"
+	"github.com/NodeSeekDev/alist/v3/internal/driver"
+	"github.com/NodeSeekDev/alist/v3/internal/errs"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/internal/op"
+	"github.com/NodeSeekDev/alist/v3/pkg/cron"
+	"github.com/NodeSeekDev/alist/v3/pkg/errgroup"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 	"github.com/avast/retry-go"
 	weiyunsdkgo "github.com/foxxorcat/weiyun-sdk-go"
-	"github.com/friedHDD/alist/v3/drivers/base"
-	"github.com/friedHDD/alist/v3/internal/driver"
-	"github.com/friedHDD/alist/v3/internal/errs"
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/internal/op"
-	"github.com/friedHDD/alist/v3/pkg/cron"
-	"github.com/friedHDD/alist/v3/pkg/errgroup"
-	"github.com/friedHDD/alist/v3/pkg/utils"
 )
 
 type WeiYun struct {

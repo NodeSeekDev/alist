@@ -7,9 +7,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/friedHDD/alist/v3/drivers/base"
-	"github.com/friedHDD/alist/v3/internal/errs"
-	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/drivers/base"
+	"github.com/NodeSeekDev/alist/v3/internal/errs"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
 	log "github.com/sirupsen/logrus"
 )
 

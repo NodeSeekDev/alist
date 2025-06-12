@@ -10,9 +10,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 
-	"github.com/friedHDD/alist/v3/pkg/http_range"
+	"github.com/NodeSeekDev/alist/v3/pkg/http_range"
 	log "github.com/sirupsen/logrus"
 )
 

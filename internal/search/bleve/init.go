@@ -1,9 +1,9 @@
 package bleve
 
 import (
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/search/searcher"
 	"github.com/blevesearch/bleve/v2"
-	"github.com/friedHDD/alist/v3/internal/conf"
-	"github.com/friedHDD/alist/v3/internal/search/searcher"
 	log "github.com/sirupsen/logrus"
 )
 

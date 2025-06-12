@@ -3,8 +3,8 @@ package db
 import (
 	log "github.com/sirupsen/logrus"
 
-	"github.com/friedHDD/alist/v3/internal/conf"
-	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
 	"gorm.io/gorm"
 )
 

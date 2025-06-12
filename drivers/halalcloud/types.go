@@ -3,10 +3,10 @@ package halalcloud
 import (
 	"time"
 
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 	"github.com/city404/v6-public-rpc-proto/go/v6/common"
 	pubUserFile "github.com/city404/v6-public-rpc-proto/go/v6/userfile"
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/pkg/utils"
 	"google.golang.org/grpc"
 )
 

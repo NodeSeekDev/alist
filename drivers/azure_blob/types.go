@@ -1,6 +1,6 @@
 package azure_blob
 
-import "github.com/friedHDD/alist/v3/internal/driver"
+import "github.com/NodeSeekDev/alist/v3/internal/driver"
 
 // progressTracker is used to track upload progress
 type progressTracker struct {

@@ -9,9 +9,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/friedHDD/alist/v3/internal/errs"
+	"github.com/NodeSeekDev/alist/v3/internal/errs"
 
-	"github.com/friedHDD/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
 	log "github.com/sirupsen/logrus"
 )
 

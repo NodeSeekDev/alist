@@ -1,8 +1,8 @@
 package baiduphoto
 
 import (
-	"github.com/friedHDD/alist/v3/internal/driver"
-	"github.com/friedHDD/alist/v3/internal/op"
+	"github.com/NodeSeekDev/alist/v3/internal/driver"
+	"github.com/NodeSeekDev/alist/v3/internal/op"
 )
 
 type Addition struct {

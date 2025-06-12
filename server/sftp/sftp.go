@@ -4,10 +4,10 @@ import (
 	"os"
 
 	"github.com/KirCute/sftpd-alist"
-	"github.com/friedHDD/alist/v3/internal/errs"
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/pkg/utils"
-	"github.com/friedHDD/alist/v3/server/ftp"
+	"github.com/NodeSeekDev/alist/v3/internal/errs"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/server/ftp"
 )
 
 type DriverAdapter struct {

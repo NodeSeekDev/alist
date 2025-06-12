@@ -5,9 +5,9 @@ import (
 	"io"
 	"time"
 
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/pkg/http_range"
-	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/pkg/http_range"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 	"golang.org/x/time/rate"
 )
 

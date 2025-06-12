@@ -4,9 +4,9 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/friedHDD/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
 
-	"github.com/friedHDD/alist/v3/internal/driver"
+	"github.com/NodeSeekDev/alist/v3/internal/driver"
 	"github.com/pkg/errors"
 )
 

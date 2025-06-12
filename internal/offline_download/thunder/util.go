@@ -4,10 +4,10 @@ import (
 	"context"
 	"time"
 
+	"github.com/NodeSeekDev/alist/v3/drivers/thunder"
+	"github.com/NodeSeekDev/alist/v3/internal/op"
+	"github.com/NodeSeekDev/alist/v3/pkg/singleflight"
 	"github.com/Xhofe/go-cache"
-	"github.com/friedHDD/alist/v3/drivers/thunder"
-	"github.com/friedHDD/alist/v3/internal/op"
-	"github.com/friedHDD/alist/v3/pkg/singleflight"
 )
 
 var taskCache = cache.NewMemCache(cache.WithShards[[]thunder.OfflineTask](16))

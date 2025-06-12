@@ -3,7 +3,7 @@ package db
 import (
 	"fmt"
 
-	"github.com/friedHDD/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
 	"gorm.io/gorm"
 )
 

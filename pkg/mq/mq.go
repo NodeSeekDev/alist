@@ -3,7 +3,7 @@ package mq
 import (
 	"sync"
 
-	"github.com/friedHDD/alist/v3/pkg/generic"
+	"github.com/NodeSeekDev/alist/v3/pkg/generic"
 )
 
 type Message[T any] struct {

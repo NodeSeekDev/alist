@@ -3,10 +3,10 @@ package bootstrap
 import (
 	"context"
 
-	"github.com/friedHDD/alist/v3/internal/conf"
-	"github.com/friedHDD/alist/v3/internal/op"
-	"github.com/friedHDD/alist/v3/internal/setting"
-	"github.com/friedHDD/alist/v3/internal/stream"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/op"
+	"github.com/NodeSeekDev/alist/v3/internal/setting"
+	"github.com/NodeSeekDev/alist/v3/internal/stream"
 	"golang.org/x/time/rate"
 )
 

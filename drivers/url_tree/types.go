@@ -1,6 +1,6 @@
 package url_tree
 
-import "github.com/friedHDD/alist/v3/pkg/utils"
+import "github.com/NodeSeekDev/alist/v3/pkg/utils"
 
 // Node is a node in the folder tree
 type Node struct {

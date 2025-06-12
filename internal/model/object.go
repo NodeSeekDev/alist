@@ -3,7 +3,7 @@ package model
 import (
 	"time"
 
-	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 )
 
 type ObjWrapName struct {

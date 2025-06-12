@@ -3,7 +3,7 @@ package aliyundrive
 import (
 	"crypto/ecdsa"
 
-	"github.com/friedHDD/alist/v3/pkg/generic_sync"
+	"github.com/NodeSeekDev/alist/v3/pkg/generic_sync"
 )
 
 type State struct {

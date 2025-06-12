@@ -7,10 +7,10 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/internal/net"
-	"github.com/friedHDD/alist/v3/pkg/http_range"
-	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/internal/net"
+	"github.com/NodeSeekDev/alist/v3/pkg/http_range"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 	log "github.com/sirupsen/logrus"
 )
 

@@ -1,15 +1,15 @@
 package handles
 
 import (
-	_115 "github.com/friedHDD/alist/v3/drivers/115"
-	"github.com/friedHDD/alist/v3/drivers/pikpak"
-	"github.com/friedHDD/alist/v3/drivers/thunder"
-	"github.com/friedHDD/alist/v3/internal/conf"
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/internal/offline_download/tool"
-	"github.com/friedHDD/alist/v3/internal/op"
-	"github.com/friedHDD/alist/v3/internal/task"
-	"github.com/friedHDD/alist/v3/server/common"
+	_115 "github.com/NodeSeekDev/alist/v3/drivers/115"
+	"github.com/NodeSeekDev/alist/v3/drivers/pikpak"
+	"github.com/NodeSeekDev/alist/v3/drivers/thunder"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/internal/offline_download/tool"
+	"github.com/NodeSeekDev/alist/v3/internal/op"
+	"github.com/NodeSeekDev/alist/v3/internal/task"
+	"github.com/NodeSeekDev/alist/v3/server/common"
 	"github.com/gin-gonic/gin"
 )
 

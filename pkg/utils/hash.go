@@ -12,7 +12,7 @@ import (
 	"io"
 	"iter"
 
-	"github.com/friedHDD/alist/v3/internal/errs"
+	"github.com/NodeSeekDev/alist/v3/internal/errs"
 	log "github.com/sirupsen/logrus"
 )
 

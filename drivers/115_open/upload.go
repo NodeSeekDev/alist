@@ -6,11 +6,11 @@ import (
 	"io"
 	"time"
 
+	"github.com/NodeSeekDev/alist/v3/internal/driver"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 	"github.com/aliyun/aliyun-oss-go-sdk/oss"
 	"github.com/avast/retry-go"
-	"github.com/friedHDD/alist/v3/internal/driver"
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/pkg/utils"
 	sdk "github.com/xhofe/115-sdk-go"
 )
 

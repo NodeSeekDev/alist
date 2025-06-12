@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 
-	_ "github.com/friedHDD/alist/v3/internal/model"
+	_ "github.com/NodeSeekDev/alist/v3/internal/model"
 )
 
 func (f *File) UnmarshalJSON(data []byte) error {

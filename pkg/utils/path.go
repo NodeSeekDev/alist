@@ -5,7 +5,7 @@ import (
 	stdpath "path"
 	"strings"
 
-	"github.com/friedHDD/alist/v3/internal/errs"
+	"github.com/NodeSeekDev/alist/v3/internal/errs"
 )
 
 // FixAndCleanPath

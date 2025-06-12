@@ -18,7 +18,7 @@ import (
 	"strconv"
 	"strings"
 
-	myrand "github.com/friedHDD/alist/v3/pkg/utils/random"
+	myrand "github.com/NodeSeekDev/alist/v3/pkg/utils/random"
 	log "github.com/sirupsen/logrus"
 )
 

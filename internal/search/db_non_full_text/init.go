@@ -1,7 +1,7 @@
 package db_non_full_text
 
 import (
-	"github.com/friedHDD/alist/v3/internal/search/searcher"
+	"github.com/NodeSeekDev/alist/v3/internal/search/searcher"
 )
 
 var config = searcher.Config{

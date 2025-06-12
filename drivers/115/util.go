@@ -17,12 +17,12 @@ import (
 	"sync/atomic"
 	"time"
 
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/driver"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/pkg/http_range"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 	"github.com/aliyun/aliyun-oss-go-sdk/oss"
-	"github.com/friedHDD/alist/v3/internal/conf"
-	"github.com/friedHDD/alist/v3/internal/driver"
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/pkg/http_range"
-	"github.com/friedHDD/alist/v3/pkg/utils"
 
 	cipher "github.com/SheltonZhu/115driver/pkg/crypto/ec115"
 	crypto "github.com/SheltonZhu/115driver/pkg/crypto/m115"

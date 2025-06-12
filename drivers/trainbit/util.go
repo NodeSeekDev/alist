@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/friedHDD/alist/v3/drivers/base"
-	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/drivers/base"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
 )
 
 func get(url string, apiKey string, AUSHELLPORTAL string) (*http.Response, error) {

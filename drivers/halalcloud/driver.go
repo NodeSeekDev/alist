@@ -10,6 +10,11 @@ import (
 	"strconv"
 	"time"
 
+	"github.com/NodeSeekDev/alist/v3/drivers/base"
+	"github.com/NodeSeekDev/alist/v3/internal/driver"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/internal/op"
+	"github.com/NodeSeekDev/alist/v3/pkg/http_range"
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/credentials"
 	"github.com/aws/aws-sdk-go/aws/session"
@@ -17,11 +22,6 @@ import (
 	"github.com/city404/v6-public-rpc-proto/go/v6/common"
 	pbPublicUser "github.com/city404/v6-public-rpc-proto/go/v6/user"
 	pubUserFile "github.com/city404/v6-public-rpc-proto/go/v6/userfile"
-	"github.com/friedHDD/alist/v3/drivers/base"
-	"github.com/friedHDD/alist/v3/internal/driver"
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/internal/op"
-	"github.com/friedHDD/alist/v3/pkg/http_range"
 	"github.com/rclone/rclone/lib/readers"
 	"github.com/zzzhr1990/go-common-entity/userfile"
 )

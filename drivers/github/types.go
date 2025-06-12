@@ -3,7 +3,7 @@ package github
 import (
 	"time"
 
-	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
 )
 
 type Links struct {

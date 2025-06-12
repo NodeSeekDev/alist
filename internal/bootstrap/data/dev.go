@@ -3,11 +3,11 @@ package data
 import (
 	"context"
 
-	"github.com/friedHDD/alist/v3/cmd/flags"
-	"github.com/friedHDD/alist/v3/internal/db"
-	"github.com/friedHDD/alist/v3/internal/message"
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/internal/op"
+	"github.com/NodeSeekDev/alist/v3/cmd/flags"
+	"github.com/NodeSeekDev/alist/v3/internal/db"
+	"github.com/NodeSeekDev/alist/v3/internal/message"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/internal/op"
 	log "github.com/sirupsen/logrus"
 )
 

@@ -3,7 +3,7 @@ package url_tree_test
 import (
 	"testing"
 
-	"github.com/friedHDD/alist/v3/drivers/url_tree"
+	"github.com/NodeSeekDev/alist/v3/drivers/url_tree"
 )
 
 func testTree() (*url_tree.Node, error) {

@@ -4,14 +4,14 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/friedHDD/alist/v3/internal/conf"
-	"github.com/friedHDD/alist/v3/internal/setting"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/setting"
 
-	_115 "github.com/friedHDD/alist/v3/drivers/115"
-	"github.com/friedHDD/alist/v3/internal/errs"
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/internal/offline_download/tool"
-	"github.com/friedHDD/alist/v3/internal/op"
+	_115 "github.com/NodeSeekDev/alist/v3/drivers/115"
+	"github.com/NodeSeekDev/alist/v3/internal/errs"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/internal/offline_download/tool"
+	"github.com/NodeSeekDev/alist/v3/internal/op"
 )
 
 type Cloud115 struct {

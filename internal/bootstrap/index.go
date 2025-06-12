@@ -1,7 +1,7 @@
 package bootstrap
 
 import (
-	"github.com/friedHDD/alist/v3/internal/search"
+	"github.com/NodeSeekDev/alist/v3/internal/search"
 	log "github.com/sirupsen/logrus"
 )
 

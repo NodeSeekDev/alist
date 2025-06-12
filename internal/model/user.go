@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/friedHDD/alist/v3/internal/errs"
-	"github.com/friedHDD/alist/v3/pkg/utils"
-	"github.com/friedHDD/alist/v3/pkg/utils/random"
+	"github.com/NodeSeekDev/alist/v3/internal/errs"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils/random"
 	"github.com/go-webauthn/webauthn/webauthn"
 	"github.com/pkg/errors"
 )

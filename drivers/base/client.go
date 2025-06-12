@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/friedHDD/alist/v3/internal/conf"
-	"github.com/friedHDD/alist/v3/internal/net"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/net"
 	"github.com/go-resty/resty/v2"
 )
 

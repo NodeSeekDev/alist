@@ -6,7 +6,7 @@ import (
 	stdpath "path"
 	"strings"
 
-	"github.com/friedHDD/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
 )
 
 func GetApiUrl(r *http.Request) string {

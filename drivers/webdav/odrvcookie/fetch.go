@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/friedHDD/alist/v3/drivers/base"
+	"github.com/NodeSeekDev/alist/v3/drivers/base"
 	"golang.org/x/net/publicsuffix"
 )
 

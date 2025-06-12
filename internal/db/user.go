@@ -3,8 +3,8 @@ package db
 import (
 	"encoding/base64"
 
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 	"github.com/go-webauthn/webauthn/webauthn"
 	"github.com/pkg/errors"
 )

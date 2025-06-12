@@ -11,8 +11,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/friedHDD/alist/v3/drivers/base"
-	"github.com/friedHDD/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/drivers/base"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
 	log "github.com/sirupsen/logrus"
 	"golang.org/x/net/html"
 )

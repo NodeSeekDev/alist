@@ -6,9 +6,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/friedHDD/alist/v3/cmd/flags"
-	"github.com/friedHDD/alist/v3/internal/conf"
-	"github.com/friedHDD/alist/v3/internal/db"
+	"github.com/NodeSeekDev/alist/v3/cmd/flags"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/db"
 	log "github.com/sirupsen/logrus"
 	"gorm.io/driver/mysql"
 	"gorm.io/driver/postgres"

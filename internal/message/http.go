@@ -3,7 +3,7 @@ package message
 import (
 	"time"
 
-	"github.com/friedHDD/alist/v3/server/common"
+	"github.com/NodeSeekDev/alist/v3/server/common"
 	"github.com/gin-gonic/gin"
 	"github.com/pkg/errors"
 )

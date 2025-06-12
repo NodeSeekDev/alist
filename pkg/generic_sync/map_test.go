@@ -10,7 +10,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/friedHDD/alist/v3/pkg/generic_sync"
+	"github.com/NodeSeekDev/alist/v3/pkg/generic_sync"
 )
 
 func TestConcurrentRange(t *testing.T) {

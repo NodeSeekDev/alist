@@ -6,12 +6,12 @@ import (
 	"path/filepath"
 	"strings"
 
+	"github.com/NodeSeekDev/alist/v3/cmd/flags"
+	"github.com/NodeSeekDev/alist/v3/drivers/base"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/net"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 	"github.com/caarlos0/env/v9"
-	"github.com/friedHDD/alist/v3/cmd/flags"
-	"github.com/friedHDD/alist/v3/drivers/base"
-	"github.com/friedHDD/alist/v3/internal/conf"
-	"github.com/friedHDD/alist/v3/internal/net"
-	"github.com/friedHDD/alist/v3/pkg/utils"
 	log "github.com/sirupsen/logrus"
 )
 

@@ -3,7 +3,7 @@ package cloudreve_v4
 import (
 	"time"
 
-	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
 )
 
 type Object struct {

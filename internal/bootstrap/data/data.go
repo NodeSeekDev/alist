@@ -1,6 +1,6 @@
 package data
 
-import "github.com/friedHDD/alist/v3/cmd/flags"
+import "github.com/NodeSeekDev/alist/v3/cmd/flags"
 
 func InitData() {
 	initUser()

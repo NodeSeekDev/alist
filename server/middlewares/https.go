@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/friedHDD/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
 	"github.com/gin-gonic/gin"
 )
 

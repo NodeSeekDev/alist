@@ -12,7 +12,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/friedHDD/alist/v3/pkg/http_range"
+	"github.com/NodeSeekDev/alist/v3/pkg/http_range"
 	"github.com/sirupsen/logrus"
 	"golang.org/x/exp/slices"
 )

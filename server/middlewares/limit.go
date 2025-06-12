@@ -3,7 +3,7 @@ package middlewares
 import (
 	"io"
 
-	"github.com/friedHDD/alist/v3/internal/stream"
+	"github.com/NodeSeekDev/alist/v3/internal/stream"
 	"github.com/gin-gonic/gin"
 )
 

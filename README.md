@@ -80,13 +80,13 @@ N/A
 
 ## Discussion
 
-Please go to our [discussion forum](https://github.com/friedHDD/alist/discussions) for general questions, **issues are for bug reports and feature requests only.**
+Please go to our [discussion forum](https://github.com/NodeSeekDev/alist/discussions) for general questions, **issues are for bug reports and feature requests only.**
 
 ## Contributors
 
 Thanks goes to these wonderful people:
 
-[![Contributors](https://contrib.rocks/image?repo=friedHDD/alist)](https://github.com/friedHDD/alist/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=friedHDD/alist)](https://github.com/NodeSeekDev/alist/graphs/contributors)
 
 ## License
 

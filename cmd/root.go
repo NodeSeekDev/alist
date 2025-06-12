@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/friedHDD/alist/v3/cmd/flags"
-	_ "github.com/friedHDD/alist/v3/drivers"
-	_ "github.com/friedHDD/alist/v3/internal/archive"
-	_ "github.com/friedHDD/alist/v3/internal/offline_download"
+	"github.com/NodeSeekDev/alist/v3/cmd/flags"
+	_ "github.com/NodeSeekDev/alist/v3/drivers"
+	_ "github.com/NodeSeekDev/alist/v3/internal/archive"
+	_ "github.com/NodeSeekDev/alist/v3/internal/offline_download"
 	"github.com/spf13/cobra"
 )
 

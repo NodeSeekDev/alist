@@ -14,7 +14,7 @@ Prerequisites:
 Clone `alist` and `alist-web` anywhere:
 
 ```shell
-$ git clone https://github.com/friedHDD/alist.git
+$ git clone https://github.com/NodeSeekDev/alist.git
 $ git clone --recurse-submodules https://github.com/alist-org/alist-web.git
 ```
 You should switch to the `main` branch for development.

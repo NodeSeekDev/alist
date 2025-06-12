@@ -16,10 +16,10 @@ import (
 	"sync"
 	"time"
 
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 	pbPublicUser "github.com/city404/v6-public-rpc-proto/go/v6/user"
 	pubUserFile "github.com/city404/v6-public-rpc-proto/go/v6/userfile"
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/pkg/utils"
 	"github.com/google/uuid"
 	"github.com/ipfs/go-cid"
 	"google.golang.org/grpc"

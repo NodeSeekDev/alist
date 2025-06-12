@@ -3,8 +3,8 @@ package op
 import (
 	"time"
 
-	"github.com/friedHDD/alist/v3/internal/db"
-	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/internal/db"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
 	"github.com/pkg/errors"
 	"golang.org/x/crypto/ssh"
 )

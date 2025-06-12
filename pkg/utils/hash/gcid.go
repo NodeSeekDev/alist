@@ -7,7 +7,7 @@ import (
 	"hash"
 	"strconv"
 
-	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 )
 
 var GCID = utils.RegisterHashWithParam("gcid", "GCID", 40, func(a ...any) hash.Hash {

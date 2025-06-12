@@ -1,8 +1,8 @@
 package _115
 
 import (
+	"github.com/NodeSeekDev/alist/v3/drivers/base"
 	driver115 "github.com/SheltonZhu/115driver/pkg/driver"
-	"github.com/friedHDD/alist/v3/drivers/base"
 	log "github.com/sirupsen/logrus"
 )
 

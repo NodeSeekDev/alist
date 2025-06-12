@@ -1,8 +1,8 @@
 package data
 
 import (
-	"github.com/friedHDD/alist/v3/internal/db"
-	"github.com/friedHDD/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/internal/db"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
 )
 
 var initialTaskItems []model.TaskItem

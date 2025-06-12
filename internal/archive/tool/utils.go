@@ -1,7 +1,7 @@
 package tool
 
 import (
-	"github.com/friedHDD/alist/v3/internal/errs"
+	"github.com/NodeSeekDev/alist/v3/internal/errs"
 )
 
 var (

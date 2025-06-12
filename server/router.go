@@ -1,16 +1,16 @@
 package server
 
 import (
-	"github.com/friedHDD/alist/v3/cmd/flags"
-	"github.com/friedHDD/alist/v3/internal/conf"
-	"github.com/friedHDD/alist/v3/internal/message"
-	"github.com/friedHDD/alist/v3/internal/sign"
-	"github.com/friedHDD/alist/v3/internal/stream"
-	"github.com/friedHDD/alist/v3/pkg/utils"
-	"github.com/friedHDD/alist/v3/server/common"
-	"github.com/friedHDD/alist/v3/server/handles"
-	"github.com/friedHDD/alist/v3/server/middlewares"
-	"github.com/friedHDD/alist/v3/server/static"
+	"github.com/NodeSeekDev/alist/v3/cmd/flags"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/message"
+	"github.com/NodeSeekDev/alist/v3/internal/sign"
+	"github.com/NodeSeekDev/alist/v3/internal/stream"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/server/common"
+	"github.com/NodeSeekDev/alist/v3/server/handles"
+	"github.com/NodeSeekDev/alist/v3/server/middlewares"
+	"github.com/NodeSeekDev/alist/v3/server/static"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 )

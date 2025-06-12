@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strconv"
 
-	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 	log "github.com/sirupsen/logrus"
 )
 

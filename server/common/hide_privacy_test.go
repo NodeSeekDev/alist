@@ -4,7 +4,7 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/friedHDD/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
 )
 
 func TestHidePrivacy(t *testing.T) {

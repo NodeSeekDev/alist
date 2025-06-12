@@ -3,8 +3,8 @@ package static
 import (
 	"strings"
 
-	"github.com/friedHDD/alist/v3/internal/conf"
-	"github.com/friedHDD/alist/v3/pkg/utils"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 )
 
 type SiteConfig struct {

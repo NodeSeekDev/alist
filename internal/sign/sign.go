@@ -4,9 +4,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/friedHDD/alist/v3/internal/conf"
-	"github.com/friedHDD/alist/v3/internal/setting"
-	"github.com/friedHDD/alist/v3/pkg/sign"
+	"github.com/NodeSeekDev/alist/v3/internal/conf"
+	"github.com/NodeSeekDev/alist/v3/internal/setting"
+	"github.com/NodeSeekDev/alist/v3/pkg/sign"
 )
 
 var once sync.Once

@@ -9,15 +9,15 @@ import (
 	"strings"
 	"time"
 
-	"github.com/friedHDD/alist/v3/internal/archive/tool"
-	"github.com/friedHDD/alist/v3/internal/stream"
+	"github.com/NodeSeekDev/alist/v3/internal/archive/tool"
+	"github.com/NodeSeekDev/alist/v3/internal/stream"
 
+	"github.com/NodeSeekDev/alist/v3/internal/driver"
+	"github.com/NodeSeekDev/alist/v3/internal/errs"
+	"github.com/NodeSeekDev/alist/v3/internal/model"
+	"github.com/NodeSeekDev/alist/v3/pkg/singleflight"
+	"github.com/NodeSeekDev/alist/v3/pkg/utils"
 	"github.com/Xhofe/go-cache"
-	"github.com/friedHDD/alist/v3/internal/driver"
-	"github.com/friedHDD/alist/v3/internal/errs"
-	"github.com/friedHDD/alist/v3/internal/model"
-	"github.com/friedHDD/alist/v3/pkg/singleflight"
-	"github.com/friedHDD/alist/v3/pkg/utils"
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
 )
