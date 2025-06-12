@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/friedHDD/alist@main/images/logo.svg"/></a>
+  <img width="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/NodeSeekDev/alist@main/images/logo.svg"/></a>
   <p><em>🗂一个支持多存储的文件列表程序，使用 Gin 和 Solidjs，基于 xhofe/alist 项目 fork 开发</em></p>
 </div>
 
@@ -13,7 +13,7 @@
 >
 >[osNsme梗出处](https://github.com/AlistGo/alist/pull/8633/files)
 
-[English](./README.md) | 简体中文 | [Contributing](./CONTRIBUTING.md) | [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)
+[English](./README.md) | 简体中文 | [Contributing](./CONTRIBUTING.md) | [Contributing入门版](./CONTRIBUTING_EZ_cn.md) | [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)
 
 ## 功能
 
@@ -84,7 +84,7 @@ N/A
 
 感谢这些开源作者们：
 
-[![Contributors](https://contrib.rocks/image?repo=friedHDD/alist)](https://github.com/NodeSeekDev/alist/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=NodeSeekDev/alist)](https://github.com/NodeSeekDev/alist/graphs/contributors)
 
 ## 许可
 

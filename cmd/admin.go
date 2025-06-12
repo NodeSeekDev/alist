@@ -48,6 +48,9 @@ var SetPasswordCmd = &cobra.Command{
 		if len(args) == 0 {
 			utils.Log.Errorf("Please enter the new password")
 			return
+		} else if len(args[0]) < 6 {
+			utils.Log.Errorf("Password must be at least 6 characters long")
+			return
 		}
 		setAdminPassword(args[0])
 	},

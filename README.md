@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/friedHDD/alist@main/images/logo.svg"/></a>
+  <img width="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/NodeSeekDev/alist@main/images/logo.svg"/></a>
   <p><em>🗂️A file list program that supports multiple storages, powered by Gin and Solidjs, fork from xhofe/alist.</em></p>
 </div>
 
@@ -13,7 +13,7 @@
 >
 >[Meme:osNsme](https://github.com/AlistGo/alist/pull/8633/files)
 
-English | [简体中文](./README_cn.md) | [Contributing](./CONTRIBUTING.md) | [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)
+English | [简体中文](./README_cn.md) | [Contributing](./CONTRIBUTING.md) | [Contributing(noob)](./CONTRIBUTING_EZ_cn.md) | [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)
 
 ## Features
 
@@ -86,7 +86,7 @@ Please go to our [discussion forum](https://github.com/NodeSeekDev/alist/discuss
 
 Thanks goes to these wonderful people:
 
-[![Contributors](https://contrib.rocks/image?repo=friedHDD/alist)](https://github.com/NodeSeekDev/alist/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=NodeSeekDev/alist)](https://github.com/NodeSeekDev/alist/graphs/contributors)
 
 ## License
 
