@@ -1,45 +1,19 @@
 <div align="center">
-  <img width="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg"/></a>
-  <p><em>🗂️A file list program that supports multiple storages, powered by Gin and Solidjs, fork from alist.</em></p>
-<div>
-  <a href="https://goreportcard.com/report/github.com/AlistTeam/alist/v3">
-    <img src="https://goreportcard.com/badge/github.com/AlistTeam/alist/v3" alt="latest version" />
-  </a>
-  <a href="https://github.com/AlistTeam/alist/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/AlistTeam/alist" alt="License" />
-  </a>
-  <a href="https://github.com/AlistTeam/alist/actions?query=workflow%3ABuild">
-    <img src="https://img.shields.io/github/actions/workflow/status/AlistTeam/alist/build.yml?branch=main" alt="Build status" />
-  </a>
-  <a href="https://github.com/AlistTeam/alist/releases">
-    <img src="https://img.shields.io/github/release/AlistTeam/alist" alt="latest version" />
-  </a>
-</div>
-<div>
-  <a href="https://github.com/AlistTeam/alist/discussions">
-    <img src="https://img.shields.io/github/discussions/AlistTeam/alist?color=%23ED8936" alt="discussions" />
-  </a>
-  <a href="https://github.com/AlistTeam/alist/releases">
-    <img src="https://img.shields.io/github/downloads/AlistTeam/alist/total?color=%239F7AEA&logo=github" alt="Downloads" />
-  </a>
-</div>
+  <img width="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/friedHDD/alist@main/images/logo.svg"/></a>
+  <p><em>🗂️A file list program that supports multiple storages, powered by Gin and Solidjs, fork from xhofe/alist.</em></p>
 </div>
 
 ---
 
 > [!IMPORTANT]
-> 
-> **THIS IS A FORK VERSION !!!**
+>> 
+> **THIS IS A FORK VERSION !!!**，Origin repo:[xhofe/alist](https://github.com/xhofe/alist)，Community maintained repo:[AlistTeam/alist](https://github.com/AlistTeam/alist)
 >
-> We sincerely thank the original author [xhofe/alist](https://github.com/xhofe/alist) for his substantial prior contributions.
+> <h1>好看的代码千篇一律，有趣的命名万里挑一：osNsme</h1> 
 >
-> This fork is not yet stable. A large number of external links point to unaudited content, posing a supply chain attack risk, including related documentation websites, etc. Do not trust!
->
-> Currently, only links confirmed to be outside the original author's control (such as `alistgo.com`) have been removed.
->
-> Please vote to determine the name: https://github.com/AlistTeam/alist/issues/4
+>[Meme:osNsme](https://github.com/AlistGo/alist/pull/8633/files)
 
-English | [中文](./README_cn.md) | [日本語](./README_ja.md) | [Contributing](./CONTRIBUTING.md) | [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)
+English | [简体中文](./README_cn.md) | [Contributing](./CONTRIBUTING.md) | [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)
 
 ## Features
 
@@ -89,7 +63,6 @@ English | [中文](./README_cn.md) | [日本語](./README_ja.md) | [Contributing
 - [x] I18n
 - [x] Protected routes (password protection and authentication)
 - [x] WebDav (waiting for detail documents)
-- [ ] Docker Deploy (rebuilding)
 - [x] Cloudflare Workers proxy
 - [x] File/Folder package download
 - [x] Web upload(Can allow visitors to upload), delete, mkdir, rename, move and copy
@@ -107,25 +80,15 @@ N/A
 
 ## Discussion
 
-Please go to our [discussion forum](https://github.com/AlistTeam/alist/discussions) for general questions, **issues are for bug reports and feature requests only.**
+Please go to our [discussion forum](https://github.com/friedHDD/alist/discussions) for general questions, **issues are for bug reports and feature requests only.**
 
 ## Contributors
 
 Thanks goes to these wonderful people:
 
-[![Contributors](https://contrib.rocks/image?repo=AlistTeam/alist)](https://github.com/AlistTeam/alist/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=friedHDD/alist)](https://github.com/friedHDD/alist/graphs/contributors)
 
 ## License
 
 The `AList` is open-source software licensed under the AGPL-3.0 license.
 
-## Disclaimer
-- This program is a free and open source project. It is designed to share files on the network disk, which is convenient for downloading and learning Golang. Please abide by relevant laws and regulations when using it, and do not abuse it;
-- This program is implemented by calling the official sdk/interface, without destroying the official interface behavior;
-- This program only does 302 redirect/traffic forwarding, and does not intercept, store, or tamper with any user data;
-- Before using this program, you should understand and bear the corresponding risks, including but not limited to account ban, download speed limit, etc., which is none of this program's business;
-- If there is any infringement, please contact [AlistTeam](https://github.com/AlistTeam), and it will be dealt with in time.
-
----
-
-> [@GitHub](https://github.com/AlistTeam) · [@Temporary  TelegramGroup]( https://t.me/+BYuDkV2f-ds2ODE1)

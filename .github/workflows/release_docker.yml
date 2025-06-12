@@ -31,6 +31,7 @@ env:
 
 jobs:
   build_binary:
+    if: false # disable this workflow
     name: Build Binaries for Docker Release
     runs-on: ubuntu-latest
     steps:
@@ -71,6 +72,7 @@ jobs:
             !build/musl-libs/**
 
   release_docker:
+    if: false # disable this workflow
     needs: build_binary
     name: Release Docker image
     runs-on: ubuntu-latest

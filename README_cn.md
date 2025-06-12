@@ -1,43 +1,19 @@
 <div align="center">
-  <img width="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg"/></a>
-  <p><em>🗂一个支持多存储的文件列表程序，使用 Gin 和 Solidjs，基于 alist 项目 fork 开发</em></p>
-<div>
-  <a href="https://goreportcard.com/report/github.com/AlistTeam/alist/v3">
-    <img src="https://goreportcard.com/badge/github.com/AlistTeam/alist/v3" alt="latest version" />
-  </a>
-  <a href="https://github.com/AlistTeam/alist/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/AlistTeam/alist" alt="License" />
-  </a>
-  <a href="https://github.com/AlistTeam/alist/actions?query=workflow%3ABuild">
-    <img src="https://img.shields.io/github/actions/workflow/status/AlistTeam/alist/build.yml?branch=main" alt="Build status" />
-  </a>
-  <a href="https://github.com/AlistTeam/alist/releases">
-    <img src="https://img.shields.io/github/release/AlistTeam/alist" alt="latest version" />
-  </a>
-</div>
-<div>
-  <a href="https://github.com/AlistTeam/alist/discussions">
-    <img src="https://img.shields.io/github/discussions/AlistTeam/alist?color=%23ED8936" alt="discussions" />
-  </a>
-  <a href="https://github.com/AlistTeam/alist/releases">
-    <img src="https://img.shields.io/github/downloads/AlistTeam/alist/total?color=%239F7AEA&logo=github" alt="Downloads" />
-  </a>
-</div>
+  <img width="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/friedHDD/alist@main/images/logo.svg"/></a>
+  <p><em>🗂一个支持多存储的文件列表程序，使用 Gin 和 Solidjs，基于 xhofe/alist 项目 fork 开发</em></p>
 </div>
 
 ---
 
 > [!IMPORTANT]
 >
-> **这是FORK版本！！！**
+> **本repo为fork分支**，原始项目[xhofe/alist](https://github.com/xhofe/alist)，感谢社区维护者们的重建[AlistTeam/alist](https://github.com/AlistTeam/alist)
 >
-> 我们诚挚地感谢原作者 [xhofe/alist](https://github.com/xhofe/alist) 为原项目做出的重大贡献。
+> <h1>好看的代码千篇一律，有趣的命名万里挑一：osNsme</h1> 
 >
-> 本 Fork 尚未稳定, 大量外部链接指向的内容尚未得到审计, 存在投毒风险, 含相关文档网站等. 切勿盲目信任!
->
-> 请您为确认本 Fork 新名字投票: https://github.com/AlistTeam/alist/issues/4
+>[osNsme梗出处](https://github.com/AlistGo/alist/pull/8633/files)
 
-[English](./README.md) | 中文 | [日本語](./README_ja.md) | [Contributing](./CONTRIBUTING.md) | [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)
+[English](./README.md) | 简体中文 | [Contributing](./CONTRIBUTING.md) | [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)
 
 ## 功能
 
@@ -85,7 +61,6 @@
 - [x] 国际化
 - [x] 受保护的路由（密码保护和身份验证）
 - [x] WebDav (详细文档待补充)
-- [ ] Docker 部署（重建中）
 - [x] Cloudflare workers 中转
 - [x] 文件/文件夹打包下载
 - [x] 网页上传(可以允许访客上传)，删除，新建文件夹，重命名，移动，复制
@@ -103,25 +78,14 @@ N/A
 
 ## 讨论
 
-一般问题请到[讨论论坛](https://github.com/AlistTeam/alist/discussions) ，**issue仅针对错误报告和功能请求。**
+一般问题请到[讨论论坛](https://github.com/friedHDD/alist/discussions) ，**issue仅针对错误报告和功能请求。**
 
 ## 贡献者
 
 感谢这些开源作者们：
 
-[![Contributors](https://contrib.rocks/image?repo=AlistTeam/alist)](https://github.com/AlistTeam/alist/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=friedHDD/alist)](https://github.com/friedHDD/alist/graphs/contributors)
 
 ## 许可
 
 `AList` 是在 AGPL-3.0 许可下许可的开源软件。
-
-## 免责声明
-- 本程序为免费开源项目，旨在分享网盘文件，方便下载以及学习golang，使用时请遵守相关法律法规，请勿滥用；
-- 本程序通过调用官方sdk/接口实现，无破坏官方接口行为；
-- 本程序仅做302重定向/流量转发，不拦截、存储、篡改任何用户数据；
-- 在使用本程序之前，你应了解并承担相应的风险，包括但不限于账号被ban，下载限速等，与本程序无关；
-- 如有侵权，请联系[AlistTeam](https://github.com/AlistTeam)，团队会及时处理。
-
----
-
-> [@GitHub](https://github.com/AlistTeam) · [@Telegram临时群]( https://t.me/+BYuDkV2f-ds2ODE1)

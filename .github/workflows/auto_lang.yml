@@ -17,6 +17,7 @@ concurrency:
 
 jobs:
   auto_lang:
+    if: false # disable this workflow
     strategy:
       matrix:
         platform: [ ubuntu-latest ]
