@@ -26,6 +26,7 @@ $ go run main.go
 ```
 ### frontend
 ```shell
+$ cd alist-web
 $ pnpm dev
 ```
 
