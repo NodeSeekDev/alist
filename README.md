@@ -7,7 +7,7 @@
 
 > [!IMPORTANT]
 >> 
-> **THIS IS A FORK VERSION !!!**，Origin repo:[xhofe/alist](https://github.com/xhofe/alist)，Community maintained repo:[AlistTeam/alist](https://github.com/AlistTeam/alist)
+> **THIS IS A FORK VERSION !!!**，Origin repo:[xhofe/alist](https://github.com/xhofe/alist)
 >
 > <h1>好看的代码千篇一律，有趣的命名万里挑一：osNsme</h1> 
 >
@@ -72,15 +72,11 @@ English | [简体中文](./README_cn.md) | [Contributing](./CONTRIBUTING.md) | [
 
 ## Document
 
-<https://alistteam.github.io/docs/> (temporally)
+<https://github.com/NodeSeekDev/nlist-docs/tree/main/docs> (temporally)
 
-## Demo
+## Related repos
 
-N/A
-
-## Discussion
-
-Please go to our [discussion forum](https://github.com/NodeSeekDev/alist/discussions) for general questions, **issues are for bug reports and feature requests only.**
+[nlist-docs](https://github.com/NodeSeekDev/nlist-docs)|[alist-web](https://github.com/friedHDD/alist-web)|[musl.cc mirror](https://github.com/OpenListTeam/musl-compilers)
 
 ## Contributors
 
