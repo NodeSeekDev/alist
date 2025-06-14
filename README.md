@@ -52,23 +52,26 @@ English | [简体中文](./README_cn.md) | [Contributing](./CONTRIBUTING.md) | [
     - [x] [FeijiPan](https://www.feijipan.com/)
     - [x] [dogecloud](https://www.dogecloud.com/product/oss)
     - [x] [Azure Blob Storage](https://azure.microsoft.com/products/storage/blobs)
-- [x] Easy to deploy and out-of-the-box
-- [x] File preview (PDF, markdown, code, plain text, ...)
-- [x] Image preview in gallery mode
-- [x] Video and audio preview, support lyrics and subtitles
-- [x] Office documents preview (docx, pptx, xlsx, ...)
-- [x] `README.md` preview rendering
-- [x] File permalink copy and direct file download
-- [x] Dark mode
-- [x] I18n
-- [x] Protected routes (password protection and authentication)
-- [x] WebDav (waiting for detail documents)
-- [x] Cloudflare Workers proxy
-- [x] File/Folder package download
-- [x] Web upload(Can allow visitors to upload), delete, mkdir, rename, move and copy
-- [x] Offline download
-- [x] Copy files between two storage
-- [x] Multi-thread downloading acceleration for single-thread download/stream
+- [x] New features
+    - [x] Built-in foliate-js, supporting multiple formats (mobi,azw3,epub,pdf)
+- [x] Origin features
+    - [x] Easy to deploy and out-of-the-box
+    - [x] File preview (PDF, markdown, code, plain text, ...)
+    - [x] Image preview in gallery mode
+    - [x] Video and audio preview, support lyrics and subtitles
+    - [x] Office documents preview (docx, pptx, xlsx, ...)
+    - [x] `README.md` preview rendering
+    - [x] File permalink copy and direct file download
+    - [x] Dark mode
+    - [x] I18n
+    - [x] Protected routes (password protection and authentication)
+    - [x] WebDav (waiting for detail documents)
+    - [x] Cloudflare Workers proxy
+    - [x] File/Folder package download
+    - [x] Web upload(Can allow visitors to upload), delete, mkdir, rename, move and copy
+    - [x] Offline download
+    - [x] Copy files between two storage
+    - [x] Multi-thread downloading acceleration for single-thread download/stream
 
 ## Document
 
@@ -83,6 +86,8 @@ English | [简体中文](./README_cn.md) | [Contributing](./CONTRIBUTING.md) | [
 - [futurepress/epub.js](https://github.com/futurepress/epub.js/)
 
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js/)
+
+- [johnfactotum/foliate-js](https://github.com/johnfactotum/foliate-js)
 
 ## Contributors
 

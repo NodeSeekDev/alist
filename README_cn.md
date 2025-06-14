@@ -50,23 +50,26 @@
     - [x] [Dropbox](https://www.dropbox.com/)
     - [x] [飞机盘](https://www.feijipan.com/)
     - [x] [多吉云](https://www.dogecloud.com/product/oss)
-- [x] 部署方便，开箱即用
-- [x] 文件预览（PDF、markdown、代码、纯文本……）
-- [x] 画廊模式下的图像预览
-- [x] 视频和音频预览，支持歌词和字幕
-- [x] Office 文档预览（docx、pptx、xlsx、...）
-- [x] `README.md` 预览渲染
-- [x] 文件永久链接复制和直接文件下载
-- [x] 黑暗模式
-- [x] 国际化
-- [x] 受保护的路由（密码保护和身份验证）
-- [x] WebDav (详细文档待补充)
-- [x] Cloudflare workers 中转
-- [x] 文件/文件夹打包下载
-- [x] 网页上传(可以允许访客上传)，删除，新建文件夹，重命名，移动，复制
-- [x] 离线下载
-- [x] 跨存储复制文件
-- [x] 单线程下载/串流的多线程下载加速
+- [x] 船新功能
+    - [x] 内置foliate-js，麻麻再也不用担心窝不能看mobi,azw3,epub,pdf啦
+- [x] 原有功能
+    - [x] 部署方便，开箱即用
+    - [x] 文件预览（PDF、markdown、代码、纯文本……）
+    - [x] 画廊模式下的图像预览
+    - [x] 视频和音频预览，支持歌词和字幕
+    - [x] Office 文档预览（docx、pptx、xlsx、...）
+    - [x] `README.md` 预览渲染
+    - [x] 文件永久链接复制和直接文件下载
+    - [x] 黑暗模式
+    - [x] 国际化
+    - [x] 受保护的路由（密码保护和身份验证）
+    - [x] WebDav (详细文档待补充)
+    - [x] Cloudflare workers 中转
+    - [x] 文件/文件夹打包下载
+    - [x] 网页上传(可以允许访客上传)，删除，新建文件夹，重命名，移动，复制
+    - [x] 离线下载
+    - [x] 跨存储复制文件
+    - [x] 单线程下载/串流的多线程下载加速
 
 ## 文档
 
@@ -81,6 +84,8 @@
 - [futurepress/epub.js](https://github.com/futurepress/epub.js/)
 
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js/)
+
+- [johnfactotum/foliate-js](https://github.com/johnfactotum/foliate-js)
 
 ## 贡献者
 
