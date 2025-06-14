@@ -11,15 +11,17 @@ git clone --recurse-submodules https://github.com/friedHDD/alist-web.git
 > 不要尝试使用npm i啊喂
 
 ```shell
-cd alist-webui
+cd alist-web
 npm i pnpm -g
 pnpm i
-bash release.sh
+pnpm build
 ```
 
-等pnpm编译完了
+等pnpm编译完了，在alist-web执行
 
-`./alist-web/dist/`全部丢到`./public/dist/`
+```shell
+bash mvdist.sh
+```
 
 在alist-web的目录里面`pnpm start`启动！在根目录里面`go run main.go server --dev`启动！
 

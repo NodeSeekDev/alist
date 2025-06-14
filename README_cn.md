@@ -13,7 +13,7 @@
 >
 >[osNsme梗出处](https://github.com/AlistGo/alist/pull/8633/files)
 
-[English](./README.md) | 简体中文 | [Contributing](./CONTRIBUTING.md) | [Contributing入门版](./CONTRIBUTING_EZ_cn.md) | [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)
+[English](./README.md) | 简体中文 | [Contributing](./CONTRIBUTING.md) | [Contributing入门版](./CONTRIBUTING_noob.md) | [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)
 
 ## 功能
 

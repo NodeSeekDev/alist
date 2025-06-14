@@ -13,7 +13,7 @@
 >
 >[Meme:osNsme](https://github.com/AlistGo/alist/pull/8633/files)
 
-English | [简体中文](./README_cn.md) | [Contributing](./CONTRIBUTING.md) | [Contributing(noob)](./CONTRIBUTING_EZ_cn.md) | [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)
+English | [简体中文](./README_cn.md) | [Contributing](./CONTRIBUTING.md) | [Contributing(noob)](./CONTRIBUTING_noob.md) | [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)
 
 ## Features
 
