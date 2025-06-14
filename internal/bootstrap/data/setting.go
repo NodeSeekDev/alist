@@ -125,10 +125,10 @@ func InitialSettings() []model.SettingItem {
 		"Google":"https://docs.google.com/gview?url=$e_url&embedded=true"
 	},
 	"pdf": {
-		"PDF.js":"https://alist-org.github.io/pdf.js/web/viewer.html?file=$e_url"
+		"PDF.js":"https://mozilla.github.io/pdf.js/web/viewer.html?file=$e_url"
 	},
 	"epub": {
-		"EPUB.js":"https://alist-org.github.io/static/epub.js/viewer.html?url=$e_url"
+		"EPUB.js":"/static/epub.js/viewer.html?url=$e_url"
 	}
 }`, Type: conf.TypeText, Group: model.PREVIEW},
 		//		{Key: conf.OfficeViewers, Value: `{

@@ -78,6 +78,12 @@ English | [简体中文](./README_cn.md) | [Contributing](./CONTRIBUTING.md) | [
 
 [nlist-docs](https://github.com/NodeSeekDev/nlist-docs)|[alist-web](https://github.com/friedHDD/alist-web)|[musl.cc mirror](https://github.com/OpenListTeam/musl-compilers)
 
+## Credits
+
+- [futurepress/epub.js](https://github.com/futurepress/epub.js/)
+
+- [mozilla/pdf.js](https://github.com/mozilla/pdf.js/)
+
 ## Contributors
 
 Thanks goes to these wonderful people:

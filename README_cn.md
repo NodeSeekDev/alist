@@ -76,6 +76,12 @@
 
 [nlist-docs](https://github.com/NodeSeekDev/nlist-docs)|[alist-web](https://github.com/friedHDD/alist-web)|[musl.cc mirror](https://github.com/OpenListTeam/musl-compilers)
 
+## 鸣谢
+
+- [futurepress/epub.js](https://github.com/futurepress/epub.js/)
+
+- [mozilla/pdf.js](https://github.com/mozilla/pdf.js/)
+
 ## 贡献者
 
 感谢这些开源作者们：
