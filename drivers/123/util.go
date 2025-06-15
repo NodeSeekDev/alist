@@ -163,7 +163,7 @@ func (d *Pan123) login() error {
 		SetHeaders(map[string]string{
 			"origin":      "https://www.123pan.com",
 			"referer":     "https://www.123pan.com/",
-			"user-agent":  "Dart/2.19(dart:io)-alist",
+			"user-agent":  "Dart/2.19(dart:io)",
 			"platform":    "web",
 			"app-version": "3",
 			//"user-agent":  base.UserAgent,
@@ -202,7 +202,7 @@ do:
 		"origin":        "https://www.123pan.com",
 		"referer":       "https://www.123pan.com/",
 		"authorization": "Bearer " + d.AccessToken,
-		"user-agent":    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) alist-client",
+		"user-agent":    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15",
 		"platform":      "web",
 		"app-version":   "3",
 		//"user-agent":    base.UserAgent,

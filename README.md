@@ -23,7 +23,7 @@ English | [简体中文](./README_cn.md) | [Contributing](./CONTRIBUTING.md) | [
     - [x] OneDrive / Sharepoint ([global](https://www.office.com/), [cn](https://portal.partner.microsoftonline.cn),de,us)
     - [x] [189cloud](https://cloud.189.cn) (Personal, Family)
     - [x] [GoogleDrive](https://drive.google.com/)
-    - [x] [123pan](https://www.123pan.com/)
+    - [x] [123pan(Fixed)](https://www.123pan.com/)
     - [x] FTP / SFTP
     - [x] [PikPak](https://www.mypikpak.com/)
     - [x] [S3](https://aws.amazon.com/s3/)
