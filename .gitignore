@@ -2,7 +2,6 @@
 .DS_Store
 output/
 /dist/
-vendor/
 alist
 
 # Binaries for programs and plugins
