@@ -1,9 +1,10 @@
-# Contributing简中简化版本
+# START
 
 首先，克隆repo
 
 ```shell
 git clone https://github.com/NodeSeekDev/alist.git
+cd alist
 git clone --recurse-submodules https://github.com/friedHDD/alist-web.git
 ```
 安装依赖并且初次编译前端部分

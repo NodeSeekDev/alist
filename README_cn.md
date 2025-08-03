@@ -1,19 +1,8 @@
 <div align="center">
-  <img width="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/NodeSeekDev/alist@main/images/logo.svg"/></a>
-  <p><em>🗂一个支持多存储的文件列表程序，使用 Gin 和 Solidjs，基于 xhofe/alist 项目 fork 开发</em></p>
+  <img width="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/NodeSeekDev/alist@main/images/logo.svg"/>
 </div>
 
----
-
-> [!IMPORTANT]
->
-> **本repo为fork分支**，原始项目[xhofe/alist](https://github.com/xhofe/alist)
->
-> <h1>好看的代码千篇一律，有趣的命名万里挑一：osNsme</h1> 
->
->[osNsme梗出处](https://github.com/AlistGo/alist/pull/8633/files)
-
-[English](./README.md) | 简体中文 | [Contributing](./CONTRIBUTING.md) | [Contributing入门版](./CONTRIBUTING_noob.md) | [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)
+[English](./README.md) | 简体中文 | [入门开发指南](./START.md)
 
 ## 功能
 

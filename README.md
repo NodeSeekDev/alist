@@ -1,19 +1,8 @@
 <div align="center">
-  <img width="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/NodeSeekDev/alist@main/images/logo.svg"/></a>
-  <p><em>🗂️A file list program that supports multiple storages, powered by Gin and Solidjs, fork from xhofe/alist.</em></p>
+  <img width="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/NodeSeekDev/alist@main/images/logo.svg"/>
 </div>
 
----
-
-> [!IMPORTANT]
->> 
-> **THIS IS A FORK VERSION !!!**，Origin repo:[xhofe/alist](https://github.com/xhofe/alist)
->
-> <h1>好看的代码千篇一律，有趣的命名万里挑一：osNsme</h1> 
->
->[Meme:osNsme](https://github.com/AlistGo/alist/pull/8633/files)
-
-English | [简体中文](./README_cn.md) | [Contributing](./CONTRIBUTING.md) | [Contributing(noob)](./CONTRIBUTING_noob.md) | [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)
+English | [简体中文](./README_cn.md) | [入门开发指南](./START.md)
 
 ## Features
 
