@@ -106,7 +106,7 @@ func InitialSettings() []model.SettingItem {
 		// style settings
 		{Key: conf.Logo, Value: "https://cdn.jsdelivr.net/gh/NodeSeekDev/alist@main/images/logo.svg", Type: conf.TypeText, Group: model.STYLE},
 		{Key: conf.Favicon, Value: "https://cdn.jsdelivr.net/gh/NodeSeekDev/alist@main/images/logo.svg", Type: conf.TypeString, Group: model.STYLE},
-		{Key: conf.MainColor, Value: "#1890ff", Type: conf.TypeString, Group: model.STYLE},
+		{Key: conf.MainColor, Value: "#5d6bbd", Type: conf.TypeString, Group: model.STYLE},
 		{Key: "home_icon", Value: "🏠", Type: conf.TypeString, Group: model.STYLE},
 		{Key: "home_container", Value: "max_980px", Type: conf.TypeSelect, Options: "max_980px,hope_container", Group: model.STYLE},
 		{Key: "settings_layout", Value: "list", Type: conf.TypeSelect, Options: "list,responsive", Group: model.STYLE},
@@ -130,7 +130,6 @@ func InitialSettings() []model.SettingItem {
 	},
 	"epub": {
 		"foliate-js":"/static/foliate-js/reader.html?url=$e_url",
-		"EPUB.js":"/static/epub.js/viewer.html?url=$e_url"
 	},
 	"mobi,azw3": {
 		"foliate-js":"/static/foliate-js/reader.html?url=$e_url"
