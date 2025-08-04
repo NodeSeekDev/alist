@@ -9,7 +9,7 @@ import (
 // KillCmd represents the kill command
 var KillCmd = &cobra.Command{
 	Use:   "kill",
-	Short: "Force kill alist server process by daemon/pid file",
+	Short: "Force kill alist server process",
 	Run: func(cmd *cobra.Command, args []string) {
 		kill()
 	},

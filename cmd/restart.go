@@ -10,7 +10,7 @@ import (
 // RestartCmd represents the restart command
 var RestartCmd = &cobra.Command{
 	Use:   "restart",
-	Short: "Restart alist server by daemon/pid file",
+	Short: "Restart alist server",
 	Run: func(cmd *cobra.Command, args []string) {
 		stop()
 		start()

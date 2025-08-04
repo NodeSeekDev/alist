@@ -31,9 +31,8 @@ import (
 // ServerCmd represents the server command
 var ServerCmd = &cobra.Command{
 	Use:   "server",
-	Short: "Start the server at the specified address",
-	Long: `Start the server at the specified address
-the address is defined in config file`,
+	Short: "Start the server",
+	Long:  `Start the server`,
 	Run: func(cmd *cobra.Command, args []string) {
 		Init()
 		if conf.Conf.DelayedStart != 0 {

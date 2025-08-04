@@ -12,7 +12,7 @@ import (
 // Cancel2FACmd represents the delete2fa command
 var Cancel2FACmd = &cobra.Command{
 	Use:   "cancel2fa",
-	Short: "Delete 2FA of admin user",
+	Short: "Cancel admin 2FA",
 	Run: func(cmd *cobra.Command, args []string) {
 		Init()
 		defer Release()

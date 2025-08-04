@@ -16,7 +16,7 @@ import (
 // StartCmd represents the start command
 var StartCmd = &cobra.Command{
 	Use:   "start",
-	Short: "Silent start alist server with `--force-bin-dir`",
+	Short: "Silent start the server with `--force-bin-dir`",
 	Run: func(cmd *cobra.Command, args []string) {
 		start()
 	},

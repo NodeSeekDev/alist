@@ -16,7 +16,8 @@ import (
 var AdminCmd = &cobra.Command{
 	Use:     "admin",
 	Aliases: []string{"password"},
-	Short:   "Show admin user's info and some operations about admin user's password",
+	//cli的英语也是给人读得越简单越好
+	Short: "Show and change admin info",
 	Run: func(cmd *cobra.Command, args []string) {
 		Init()
 		defer Release()

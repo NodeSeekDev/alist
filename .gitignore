@@ -31,5 +31,6 @@ alist
 /daemon/
 /public/dist/*
 /!public/dist/README.md
+/fuse/
 
 .VSCodeCounter
